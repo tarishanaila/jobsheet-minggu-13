@@ -1,5 +1,5 @@
 # created by risha
-# politeknik negeri smg
+# politeknik negeri
 
 def guess_number():
     secret_number = 9
