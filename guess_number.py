@@ -1,3 +1,6 @@
+# created by risha
+# politeknik negeri smg
+
 def guess_number():
     secret_number = 9
     guess = 0
